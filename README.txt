@@ -1,0 +1,1 @@
+Ceci est le fichier txt présentant l’activité Partie 2 / Git GitHub d’OpenClassRooms
